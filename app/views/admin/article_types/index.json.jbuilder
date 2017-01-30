@@ -1,0 +1,1 @@
+json.array! @admin_article_types, partial: 'admin_article_types/admin_article_type', as: :admin_article_type

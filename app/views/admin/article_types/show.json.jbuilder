@@ -1,0 +1,1 @@
+json.partial! "admin_article_types/admin_article_type", admin_article_type: @admin_article_type
